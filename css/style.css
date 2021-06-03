@@ -133,3 +133,12 @@
  .satauri {
  	padding: 20px 0;
  }
+
+ .candy {
+ 	font-size: 30px;
+ 	color: blue;
+ 	transition: all 0.5s linear;
+ }
+ .candy:hover {
+ 	color: green;
+ }
