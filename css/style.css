@@ -103,16 +103,19 @@ li {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	margin-bottom: 30px;
 }
 .line-1 {
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 }
-.line-2 {
+
+/*.line-2 {
 	display: flex;
 	justify-content: space-between;
 	margin-top: 30px;
-}
+}*/
 
 /*block section*/
 .block p {
